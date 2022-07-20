@@ -1,5 +1,5 @@
 import React from "react";
-
+import Links from "../components/Links";
 function Home(props) {
   return (
     <div id="home">
